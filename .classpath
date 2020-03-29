@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="bin/main" path="src/main/java">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="fw_engine/libs/org/lwjgl/native/windows"/>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="bin/main" path="src/main/resources">
+		<attributes>
+			<attribute name="gradle_scope" value="main"/>
+			<attribute name="gradle_used_by_scope" value="main,test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8/"/>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="lib" path="libs/com/oracle/java/jmf/customizer.jar"/>
+	<classpathentry kind="lib" path="libs/com/oracle/java/jmf/jmf.jar"/>
+	<classpathentry kind="lib" path="libs/com/oracle/java/jmf/mediaplayer.jar"/>
+	<classpathentry kind="lib" path="libs/com/oracle/java/jmf/multiplayer.jar"/>
+	<classpathentry kind="lib" path="libs/com/oracle/java/jmf/sound.jar"/>
+	<classpathentry kind="lib" path="libs/com/oracle/java/vecmath/vecmath-1.2-1.14.jar"/>
+	<classpathentry kind="lib" path="libs/com/slick/slick.jar"/>
+	<classpathentry kind="lib" path="libs/org/jbullet/jbullet.jar"/>
+	<classpathentry kind="lib" path="libs/org/jruby/jruby-complete-9.2.10.0.jar"/>
+	<classpathentry kind="lib" path="libs/org/js/js.jar"/>
+	<classpathentry kind="lib" path="libs/org/julia4j/julia4j-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="libs/org/lwjgl/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="libs/org/lwjgl/lwjgl.jar"/>
+	<classpathentry kind="lib" path="libs/org/joml-graal-1.9.22.jar"/>
+	<classpathentry kind="lib" path="libs/util/asm-debug-all.jar"/>
+	<classpathentry kind="lib" path="libs/util/jinput.jar"/>
+	<classpathentry kind="lib" path="libs/util/log4j-api-2.0-beta9.jar"/>
+	<classpathentry kind="lib" path="libs/util/lzma.jar"/>
+	<classpathentry kind="lib" path="libs/util/PNGDecoder.jar"/>
+	<classpathentry kind="lib" path="libs/util/slick-util.jar"/>
+	<classpathentry kind="lib" path="libs/util/substance-7.2.1.jar"/>
+	<classpathentry kind="lib" path="libs/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar"/>
+	<classpathentry kind="lib" path="libs/com/paulscode/codecwav/20101023/codecwav-20101023.jar"/>
+	<classpathentry kind="lib" path="libs/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar"/>
+	<classpathentry kind="lib" path="libs/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar"/>
+	<classpathentry kind="lib" path="libs/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar"/>
+	<classpathentry kind="lib" path="libs/org/apache/commons-lang3-3.1-sources.jar"/>
+	<classpathentry kind="lib" path="libs/org/apache/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="libs/org/asm/asm-debug-all-4.1-sources.jar"/>
+	<classpathentry kind="lib" path="libs/org/asm/asm-debug-all-4.1.jar"/>
+	<classpathentry kind="lib" path="libs/org/jython/jython-2.7.1.jar"/>
+	<classpathentry kind="lib" path="libs/org/twl/TWL-LWJGL2.jar"/>
+	<classpathentry kind="output" path="bin/default"/>
+</classpath>
